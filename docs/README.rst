@@ -13,7 +13,7 @@ nginx-formula
    :alt: Semantic Release
    :scale: 100%
    :target: https://github.com/semantic-release/semantic-release
-##This is a Forked Version of the NGINX formula to prevent any unwanted breaking changes. ##
+.. ##This is a Forked Version of the NGINX formula to prevent any unwanted breaking changes. ##
 Formula to set up and configure `NGINX <https://www.nginx.com/>`_.
 
 .. list-table::
